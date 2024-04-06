@@ -14,6 +14,13 @@ https://t.me/HosterMSG
 **Evilginx** is a man-in-the-middle attack framework used for phishing login credentials along with session cookies, which in turn allows to bypass 2-factor authentication protection.
 
 
+This version Google / Gsuite Cookie Interception Template/Phishlet In Action.
+https://vimeo.com/931409763
+
+Alternative video url:
+https://www.flexclip.com/editor/app?id=9e89b4e3509603d00d53064b8058bcd1
+
+
 ## Help
 
 In case you want to learn how to install and use **Evilginx**, please refer to online documentation available at:
