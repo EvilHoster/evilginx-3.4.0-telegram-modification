@@ -6,6 +6,38 @@
 </p>
 
 # Evilginx 3.4.0 - Modified by @HosterMSG
+
+
+
+
+
+
+
+
+# NEW VERSION AVAILABLE
+https://github.com/EvilHoster/EvilGinx2-3.4.1-Modification
+# NEW VERSION
+
+
+
+
+
+# NEW VERSION AVAILABLE
+https://github.com/EvilHoster/EvilGinx2-3.4.1-Modification
+# NEW VERSION
+
+
+
+
+
+
+
+
+
+
+
+
+
 This modified version can send logs to your telegram group chat.
 Inside this modified version i have added free Ionos mail phishlet as proof of high quality product i have nothing to hide.
 Incase u want more phishlets let me know we can do any website u want without any upfront payments.
